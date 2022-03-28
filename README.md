@@ -77,10 +77,10 @@ public class StreamTwitterProducer {
 	/*
 	 * Variables Stream Twitter
 	 */
-	public static final String _consumerKey = "1dEBLeomZJV9e15Z8Fg41MKT7";
-	public static final String _consumerSecret = "B7LIx6BjSoIWDiMnt0eOrPxCCPIcQ0QntbRV57bPsD5bxWS1hU";
-	public static final String _accessToken = "1183717702571048965-q8iJXPOQEuUsqRvutXMiRzgytpJgcI";
-	public static final String _accessTokenSecret = "pIIGucIM4b3ZYxYUC2n2Cg13p0WOmOD1fkbremkCVTLnD";
+	public static final String _consumerKey = "";
+	public static final String _consumerSecret = "";
+	public static final String _accessToken = "";
+	public static final String _accessTokenSecret = "";
     private static final boolean EXTENDED_TWITTER_MODE = true;
 
     
